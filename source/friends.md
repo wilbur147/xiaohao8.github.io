@@ -12,7 +12,7 @@ comments: true
 **我的友链信息**
 
 ```
-博客名：醉里博客
+博客名：翔基博客
 简介：小豪的个人博客
 链接：https://202271.xyz
 图片:https://202271.xyz/images/uploads/android-chrome-192x192.png
