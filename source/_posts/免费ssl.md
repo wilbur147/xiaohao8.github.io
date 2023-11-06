@@ -26,6 +26,4 @@ ohttps.com是一个提供免费HTTPS证书的网站。它可以为你的网站�
 
 OK，本文结束，有兴趣可以使用。非常方便！
 
-[必应搜索星河博客](https://cn.bing.com/search?q=%E6%98%9F%E6%B2%B3%E5%8D%9A%E5%AE%A2)[星河博客](https://www.fuzhihao.cn)
-
 原创，转载请表明出处👍
