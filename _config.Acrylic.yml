@@ -86,7 +86,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://202271.xyz/images/uploads/android-chrome-192x192.png
+favicon: https://akblog.asia/images/uploads/android-chrome-192x192.png
 
 # Avatar (头像)
 avatar:
@@ -894,7 +894,7 @@ hometop:
     class: creativity #people/creativity
     title_up: 分享技术
     title_dn: 与科技生活
-    tips: 202271.XYZ
+    tips: akblog.asia
   categoryGroup:
     enable: true
     category_list:

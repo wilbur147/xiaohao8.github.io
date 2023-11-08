@@ -13,4 +13,4 @@ updated: 2023-5-11T23:23:4.711+8:0
 
 
 
-<script>showQexoTalks("qexot", "https://admin.202271.xyz", 5)</script>
+<script>showQexoTalks("qexot", "https://admin.akblog.asia", 5)</script>

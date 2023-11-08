@@ -18,11 +18,11 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: https://202271.xyz/images/uploads/android-chrome-192x192.png
+favicon: https://akblog.asia/images/uploads/android-chrome-192x192.png
 
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: https://202271.xyz/images/uploads/android-chrome-192x192.png
+apple_touch_icon: https://akblog.asia/images/uploads/android-chrome-192x192.png
 
 # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -351,10 +351,10 @@ navbar:
     - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
-    # - { key: 'Admin', link: 'https://admin.202271.xyz/', icon: "iconfont icon-users" }
+    # - { key: 'Admin', link: 'https://admin.akblog.asia/', icon: "iconfont icon-users" }
     # - { key: "开往", link: "https://travellings.cn/go.html", icon: "iconfont icon-linkedin-fill" }
-    # - { key: "朋友圈", link: "https://202271.xyz/pyq", icon: "iconfont icon-home-fill" }
-    # - { key: "说说", link: "https://202271.xyz/talks", icon: "iconfont icon-home-fill" }
+    # - { key: "朋友圈", link: "https://akblog.asia/pyq", icon: "iconfont icon-home-fill" }
+    # - { key: "说说", link: "https://akblog.asia/talks", icon: "iconfont icon-home-fill" }
     - { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
 
@@ -429,10 +429,7 @@ open_graph:
 footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
-  content: '<a href="https://icp.gov.moe/?keyword=20226555" target="_blank">
-  <img src="https://icp.gov.moe/images/ico64.png" alt="萌icp备" width="20" height="20">
-  <span>萌备20226555</span>
-</a>
+  content: '
 <a href="https://web.51.la/report/main?comId=21534687" target="_blank">
   <img src="https://pic3.zhimg.com/v2-86bd79f42994415d1b74400880f1011d_l.jpg?source=1940ef5c" alt="51la统计" style="height: 30px; width: 30px;">
 </a> <a href="https://evolution-host.com/">evolution-host</a>'
@@ -819,7 +816,7 @@ valine:
 # Derived from Valine, with self-hosted service and new features
 # See: https://waline.js.org/
 waline:
-  serverURL: 'https://cm.202271.xyz/'
+  serverURL: 'https://cm.akblog.asia/'
   path: window.location.pathname
   meta: ['nick', 'mail', 'link']
   requiredMeta: ['nick']
@@ -963,7 +960,7 @@ about:
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
     - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
+    - { class: "iconfont icon-wechat-fill", qrcode: "/images/wechat.png" }
 
 
 #---------------------------
@@ -1026,13 +1023,13 @@ links:
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
-  onerror_avatar: /img/avatar.png
+  onerror_avatar: /img/avatar.jpeg
 
   # 友链下方自定义区域，支持 HTML，可插入例如申请友链的文字
   # Custom content at the bottom of the links
   custom:
     enable: true
-    content: '<hr><p>自2023.6.3起为了方便申请和管理，请前往网页右上角的新友链页提交！（老友链不受影响）</p><ul><li>博客名：翔基</li><li>简介：小豪的个人博客</li><li>链接：https://202271.xyz</li><li>图片：https://202271.xyz/images/uploads/android-chrome-192x192.png</li></ul>'
+    content: '<hr><p>自2023.6.3起为了方便申请和管理，请前往网页右上角的新友链页提交！（老友链不受影响）</p><ul><li>博客名：翔基</li><li>简介：阿坤的个人博客</li><li>链接：https://akblog.asia</li><li>图片：https://akblog.asia/images/uploads/android-chrome-192x192.png</li></ul>'
 
   # 评论插件
   # Comment plugin

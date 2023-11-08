@@ -25,7 +25,7 @@ updated: 2023-5-6T23:6:35.96+8:0
 
   var fdata = {
 
-    apiurl: 'https://pyq.202271.xyz/all',
+    apiurl: 'https://pyq.akblog.asia/all',
 
     initnumber: 20, //【可选】页面初始化展示文章数量
 
