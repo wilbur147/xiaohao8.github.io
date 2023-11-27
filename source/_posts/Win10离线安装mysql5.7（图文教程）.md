@@ -10,7 +10,7 @@ comments: true
 
 ## 下载安装
 
-**需要卸载干净本地MYSQL环境的请参考这一篇文章：[Win10卸载本地离线版mysql](https://www.weiye.link/297.html)**
+**需要卸载干净本地MYSQL环境的请参考这一篇文章：[Win10卸载本地离线版mysql](https://akblog.asia/post/30902/)**
 
 
 
