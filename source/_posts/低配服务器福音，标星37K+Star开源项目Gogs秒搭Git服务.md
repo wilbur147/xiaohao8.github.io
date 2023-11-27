@@ -4,7 +4,7 @@ title: 低配服务器福音，标星37K+Star开源项目Gogs秒搭Git服务
 date: 2021-08-09 23:30:37
 updated: 2021-08-09 23:30:37
 categories:
-  - 技术
+  - 运维部署
 comments: true
 ---
 ## 前言

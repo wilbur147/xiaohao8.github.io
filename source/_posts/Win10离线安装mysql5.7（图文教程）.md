@@ -1,10 +1,10 @@
 ---
-index_img: https://cdn.jsdelivr.net/gh/wilbur147/cdnPictureBed/article/20210810101525.png
-title: 低配服务器福音，标星37K+Star开源项目Gogs秒搭Git服务
+index_img: https://cdn.jsdelivr.net/gh/wilbur147/cdnPictureBed/article/20210810100654.png
+title: Win10离线安装mysql5.7（图文教程）
 date: 2021-08-11 20:10:37
 updated: 2021-08-11 20:10:37
 categories:
-  - 技术
+  - 运维部署
 comments: true
 ---
 

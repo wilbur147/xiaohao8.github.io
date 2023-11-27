@@ -1,10 +1,10 @@
 ---
 index_img: https://cdn.jsdelivr.net/gh/wilbur147/cdnPictureBed/article/20210810095633.png
-title: 低配服务器福音，标星37K+Star开源项目Gogs秒搭Git服务
+title: Win10卸载本地离线版mysql（图文教程）
 date: 2021-08-10 22:30:37
 updated: 2021-08-10 22:30:37
 categories:
-  - 技术
+  - 运维部署
 comments: true
 ---
 
