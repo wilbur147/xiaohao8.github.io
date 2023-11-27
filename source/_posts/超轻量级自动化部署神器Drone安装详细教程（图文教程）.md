@@ -1,4 +1,5 @@
 ---
+index_img: https://cdn.jsdelivr.net/gh/wilbur147/cdnPictureBed/article/20210719173546.png
 title: 超轻量级自动化部署神器Drone安装详细教程（图文教程）
 date: 2021-08-09 23:30:37
 updated: 2021-08-09 23:30:37
