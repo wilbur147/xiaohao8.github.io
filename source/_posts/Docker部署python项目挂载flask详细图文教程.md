@@ -1,5 +1,5 @@
 ---
-index_img: https://cdn.jsdelivr.net/gh/wilbur147/cdnPictureBed/article/20210827143928.png
+index_img: https://cdn.jsdelivr.net/gh/wilbur147/cdnPictureBed/article/20210827151340.png
 title: Docker部署python项目挂载flask详细图文教程
 date: 2023-01-21 19:21:13
 updated: 2023-01-21 19:21:13
