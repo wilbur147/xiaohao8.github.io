@@ -1,5 +1,5 @@
 ---
-index_img: https://img-blog.csdnimg.cn/img_convert/be504de647aba578578a3fcb3b7ea37f.png
+index_img: https://static001.geekbang.org/infoq/3e/3edfacc6adbf0a2d702722e0c6ea6959.jpeg
 title: SpringCloud微服务：Ribbon和Feign，服务调用负载均衡
 date: 2022-09-27 21:16:22
 updated: 2022-09-27 21:16:22
