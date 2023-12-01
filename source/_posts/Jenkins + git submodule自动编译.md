@@ -36,7 +36,7 @@ git submodule 一般用在比较大的项目中，为了便于复用，或者为
 
 ## Jenkins任务配置
 
-任务创建还是和上一篇一样，参照 [Jenkins任务创建](Jenkins.md#Jenkins任务创建)
+任务创建还是和上一篇一样，参照 [Jenkins任务创建](https://akblog.asia/post/24675/)
 
 
 
